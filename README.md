@@ -12,6 +12,6 @@
    
                                                                                      
 - **Theme Fit:** Healthcare <br/>
-- **Future Enhancements:** We can add chatbots for usage instructions, rewards and coupons, future goal investment.
+- **Future Enhancements:** We can add chatbots for usage instructions.
 
 
